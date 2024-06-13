@@ -1,0 +1,14 @@
+langchain_pinecone
+langchain[docarray]
+langchain
+langchain-community
+langchain-core
+langchain-groq
+python-telegram-bot
+python-telegram-bot[rate-limiter]
+docarray
+pydantic==1.10.8
+pinecone-client 
+scikit-learn
+pandas
+python-dotenv
