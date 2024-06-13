@@ -21,7 +21,7 @@ Create pinecone index on their website with 3072 dimension, to simplify name it 
 
 3. Create a free Groq account and get API key from [here](https://console.groq.com/keys).
 
-4. Create a telegram bot and get its token from [botfather](t.me/BotFather)
+4. Create a telegram bot and get its token from [botfather](https://t.me/BotFather)
 
 5. Create a `.env` file with the following variables:
 
