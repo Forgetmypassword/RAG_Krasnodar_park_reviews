@@ -1,6 +1,6 @@
 # Let's see Krasnodar park reviews with Llama3 70B and RAG
 
-![Inner child](assets/inner_child.jpg)
+![Inner child](inner_child.jpg)
 
 ### In order to run this project:
 
